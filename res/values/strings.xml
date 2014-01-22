@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anagrams</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Enter search term here.</string>
+    <string name="search_button_name">Search</string>
+
+</resources>
