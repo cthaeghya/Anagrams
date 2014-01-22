@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.cthaeghya.anagrams.Anagrams { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.cthaeghya.anagrams.Anagrams_Actual { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.cthaeghya.anagrams.FileDisplay { <init>(...); }
+
